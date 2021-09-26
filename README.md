@@ -8,6 +8,9 @@
   <a href="https://github.com/Myriowo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myriowo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myriowo&layout=compact&langs_count=7&theme=onedark"/>
+    
+  <img align="right" alt="Nhom" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/891532852246765611/891533479114846228/icon2.png?width=676&height=676">
+
 </div>
   
  ##
